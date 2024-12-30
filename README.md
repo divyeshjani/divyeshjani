@@ -1,4 +1,7 @@
 ## Hello World, I'm Divyesh 👋
+This account is only to deploy my projects on Github Pages.
+
+Find source code of all of my projects at my other [Github Account here](https://github.com/divyesh-jani).
 
 <!--
 **divyeshjani/divyeshjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
